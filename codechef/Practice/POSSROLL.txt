@@ -1,0 +1,8 @@
+// Problem: POSSROLL
+// Platform: codechef
+// Language: ​​
+// Verdict: Accepted
+// URL: https://www.codechef.com/START259D/problems/POSSROLL
+// Solved on: 2026-10-07T16:22:20.157Z
+
+# cook your dish here
